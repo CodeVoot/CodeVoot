@@ -8,7 +8,10 @@
 <!-- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer+"></h3> -->
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Thinking+🧠"></h3>
 
-
+</br>
+</br>
+</br>
+</br>
 <!-- GitHub Readme Streak Stats-->
 <!-- ## 🔥 Streak stats -->
 <table align="center">
