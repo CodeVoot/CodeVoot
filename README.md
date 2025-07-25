@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
 
 🎓 Graduated B.Tech CSE Student | Full Stack Developer | Backend Engineer  
-💻 Focused on building scalable web applications using Java & Spring Boot  
+💻 Focused on building scalable web and android applications using Java & Spring Boot  
 🛠️ Always learning, always building — from DSA to Microservices to real-world systems
 
 ---
