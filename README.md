@@ -1,7 +1,10 @@
-<h1 align="center">
-  Hello there
-  <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="36">
-</h1>
+# 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
+
+🎓 Graduated B.Tech CSE Student | Full Stack Developer | Backend Engineer  
+💻 Focused on building scalable web applications using Java & Spring Boot  
+🛠️ Always learning, always building — from DSA to Microservices to real-world systems
+
+---
 <!-- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer+"></h3> -->
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Thinking+🧠"></h3>
 
@@ -59,13 +62,7 @@
 </tr>
 </table>
 
-# 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
 
-🎓 Graduated B.Tech CSE Student | Full Stack Developer | Backend Engineer  
-💻 Focused on building scalable web applications using Java & Spring Boot  
-🛠️ Always learning, always building — from DSA to Microservices to real-world systems
-
----
 
 ## ⚒️ Tech Stack
 
