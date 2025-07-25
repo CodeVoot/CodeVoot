@@ -11,9 +11,6 @@
 <!-- GitHub Readme Streak Stats-->
 <!-- ## 🔥 Streak stats -->
 <table align="center">
-  <br>
-  <br>
-  <br>
   <tr>
 <!--     <td colspan="2" align="center"><img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td> -->
          <td colspan="2" align="center">
