@@ -8,13 +8,12 @@
 <!-- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer+"></h3> -->
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Thinking+🧠"></h3>
 
-</br>
-</br>
-</br>
-</br>
 <!-- GitHub Readme Streak Stats-->
 <!-- ## 🔥 Streak stats -->
 <table align="center">
+  <br>
+  <br>
+  <br>
   <tr>
 <!--     <td colspan="2" align="center"><img  alt="Aman-Gupta's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman1337g&show_icons=true&theme=dark&locale=en&layout=compact"/></td> -->
          <td colspan="2" align="center">
