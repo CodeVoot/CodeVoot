@@ -2,8 +2,8 @@ t# 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
 
 💻 Currently working as a Software Developer Intern in S&P Global Inc
 
-🎓 Graduated B.Tech CSE Student | Full Stack Developer | Backend Engineer  
-💻 Focused on building scalable web and android applications using Java & Spring Boot  
+🎓 Graduated B.Tech CSE Student | Backend Engineer | Building Agentic AI systems
+💻 Focused on building scalable android applications along with the Agentic AI.
 🛠️ Always learning, always building — from DSA to Microservices to real-world systems
 
 ---
