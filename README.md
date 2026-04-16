@@ -21,9 +21,9 @@ t# 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=CodeVoot&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeVoot&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10"/></td>
   </tr>
-  <tr>
+  <!-- <tr>
     <td colspan="2" align="center"><img src="https://github.com/CodeVoot/CodeVoot/blob/output/github-contribution-grid-snake.svg"/></td>
-  </tr>
+  </tr> -->
   <tr>
     <td colspan="2" align="center"/>
     
