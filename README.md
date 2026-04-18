@@ -59,7 +59,7 @@ t# 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
 - Responsive UI with TailwindCSS / Bootstrap
 
 ### 🔍 DSA (Data Structures & Algorithms)
-- Solved 200+ problems on platforms like LeetCode, Codeforces  
+- Solved 400+ problems on platforms like LeetCode, Codeforces  
 - Mastery in arrays, strings, trees, recursion, graphs, and dynamic programming  
 - Constantly improving logical thinking & problem-solving speed
 
