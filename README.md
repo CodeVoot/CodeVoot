@@ -1,10 +1,10 @@
-t# 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
+👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
 
-💻 Currently working as a Software Developer Intern in S&P Global Inc
+Currently working as a Software Developer Intern in S&P Global Inc
 
-🎓 Graduated B.Tech CSE Student | Backend Engineer | Building Agentic AI systems
-💻 Focused on building scalable android applications along with the Agentic AI.
-🛠️ Always learning, always building — from DSA to Microservices to real-world systems
+Graduated B.Tech CSE Student | Backend Engineer | Building Agentic AI systems
+Focused on building scalable android applications along with the Agentic AI.
+Always learning, always building — from DSA to Microservices to real-world systems
 
 ---
 <!-- <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Blockchain+%26+Web+Developer+"></h3> -->
@@ -35,16 +35,16 @@ t# 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
 
 
 
-## ⚒️ Tech Stack
+## Tech Stack
 
-### 💻 Core Skills
+###  Core Skills
 - **Languages**: Java (Pro), JavaScript, Kotlin, C++, SQL, Python
 - **Frameworks**: Spring Boot, Thymeleaf, React.js, Spring Security
 - **Databases**: MySQL, PostgreSQL  
 - **Version Control**: Git & GitHub (CI/CD basics)  
 - **Tools**: IntelliJ, VS Code, Postman, Maven, AWS
 
-### 🔧 Backend
+###  Backend
 - Spring Boot REST APIs  
 - JPA + Hibernate ORM  
 - Authentication (JWT, OAuth, Spring Security)  
@@ -52,13 +52,13 @@ t# 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
 - CRUD Operations  
 - Unit Testing with JUnit & Mockito
 
-### 🌐 Frontend
+### Frontend
 - React.js with Hooks  
 - Basic State Management  
 - REST API Integration  
 - Responsive UI with TailwindCSS / Bootstrap
 
-### 🔍 DSA (Data Structures & Algorithms)
+###  DSA (Data Structures & Algorithms)
 - Solved 400+ problems on platforms like LeetCode, Codeforces  
 - Mastery in arrays, strings, trees, recursion, graphs, and dynamic programming  
 - Constantly improving logical thinking & problem-solving speed
