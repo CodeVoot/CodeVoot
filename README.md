@@ -38,11 +38,11 @@ t# 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
 ## ⚒️ Tech Stack
 
 ### 💻 Core Skills
-- **Languages**: Java (Pro), JavaScript, Kotlin, C++, SQL, HTML/CSS  
+- **Languages**: Java (Pro), JavaScript, Kotlin, C++, SQL, Python
 - **Frameworks**: Spring Boot, Thymeleaf, React.js, Spring Security
 - **Databases**: MySQL, PostgreSQL  
 - **Version Control**: Git & GitHub (CI/CD basics)  
-- **Tools**: IntelliJ, VS Code, Postman, Maven
+- **Tools**: IntelliJ, VS Code, Postman, Maven, AWS
 
 ### 🔧 Backend
 - Spring Boot REST APIs  
