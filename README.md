@@ -68,8 +68,8 @@ Always learning, always building — from DSA to Microservices to real-world sys
 
 ## ✨ Fun Stuff
 
-- 🏊 Running keeps me fresh  
-- 📚 I read philosophy to think deeper  
+- 🏊 Coding keeps me fresh  
+- 📚 I solves puzzles to keey my brain active 
 
 ---
 
