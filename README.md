@@ -1,6 +1,6 @@
 👋 Hey there, I'm Mayank Agarwal — aka CodeVoot
 
-Currently working as a Software Developer Intern in S&P Global Inc
+Currently working as a Software Developer Apprentice in S&P Global Inc
 
 Graduated B.Tech CSE Student | Backend Engineer | Building Agentic AI systems
 Focused on building scalable android applications along with the Agentic AI.
@@ -52,11 +52,6 @@ Always learning, always building — from DSA to Microservices to real-world sys
 - CRUD Operations  
 - Unit Testing with JUnit & Mockito
 
-### Frontend
-- React.js with Hooks  
-- Basic State Management  
-- REST API Integration  
-- Responsive UI with TailwindCSS / Bootstrap
 
 ###  DSA (Data Structures & Algorithms)
 - Solved 400+ problems on platforms like LeetCode, Codeforces  
