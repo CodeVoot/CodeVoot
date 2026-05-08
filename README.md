@@ -51,6 +51,7 @@ Always learning, always building — from DSA to Microservices to real-world sys
 - MVC Design Pattern  
 - CRUD Operations  
 - Unit Testing with JUnit & Mockito
+- AWS (Amazon Web Services)
 
 
 ###  DSA (Data Structures & Algorithms)
