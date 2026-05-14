@@ -38,21 +38,12 @@ Always learning, always building — from DSA to Microservices to real-world sys
 ## Tech Stack
 
 ###  Core Skills
-- **Languages**: Java (Pro), JavaScript, Kotlin, C++, SQL, Python
-- **Frameworks**: Spring Boot, Thymeleaf, React.js, Spring Security
-- **Databases**: MySQL, PostgreSQL  
-- **Version Control**: Git & GitHub (CI/CD basics)  
-- **Tools**: IntelliJ, VS Code, Postman, Maven, AWS
-
-###  Backend
-- Spring Boot REST APIs  
-- JPA + Hibernate ORM  
-- Authentication (JWT, OAuth, Spring Security)  
-- MVC Design Pattern  
-- CRUD Operations  
-- Unit Testing with JUnit & Mockito
-- AWS (Amazon Web Services)
-
+- **Languages**: Java(Pro), Kotlin, python, C++, JavaScript
+- **Backend & frameworks**: Spring Boot, REST APIs, Node.js, Express.js, Hibernate, JPA, JDBC, Axios
+- **Databases**: SQL, NoSQL, PostgreSQL, SQL Server Management (SSM)
+- **Cloud & DevOps**: AWS, Amazon ECS, Elastic Beanstalk, CloudWatch, Git, CI/CD
+- **Core Concepts and Technologies**: OOPS, Data Structure and Algorithms, Streams, Multithreading, NIO, Swing
+- **Tools**: Android Studio, Jupyter notebook, Multiple IDE’s
 
 ###  DSA (Data Structures & Algorithms)
 - Solved 400+ problems on platforms like LeetCode, Codeforces  
