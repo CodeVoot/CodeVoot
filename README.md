@@ -41,7 +41,7 @@ Always learning, always building — from DSA to Microservices to real-world sys
 - **Languages**: Java(Pro), Kotlin, python, C++, JavaScript
 - **Backend & frameworks**: Spring Boot, REST APIs, Node.js, Express.js, Hibernate, JPA, JDBC, Axios
 - **Databases**: SQL, NoSQL, PostgreSQL, SQL Server Management (SSM)
-- **Cloud & DevOps**: AWS, Amazon ECS, Elastic Beanstalk, CloudWatch, Git, CI/CD
+- **Cloud & DevOps**: Amazon Web Services, Git, CI/CD, Github Actions
 - **Core Concepts and Technologies**: OOPS, Data Structure and Algorithms, Streams, Multithreading, NIO, Swing
 - **Tools**: Android Studio, Jupyter notebook, Multiple IDE’s
 
