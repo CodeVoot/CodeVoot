@@ -46,7 +46,7 @@ Always learning, always building — from DSA to Microservices to real-world sys
 - **Tools**: Android Studio, Jupyter notebook, Multiple IDE’s
 
 ###  DSA (Data Structures & Algorithms)
-- Solved 400+ problems on platforms like LeetCode, Codeforces  
+- Solved 450+ problems on platforms like LeetCode, Codeforces  
 - Mastery in arrays, strings, trees, recursion, graphs, and dynamic programming  
 - Constantly improving logical thinking & problem-solving speed
 
