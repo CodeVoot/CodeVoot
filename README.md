@@ -41,9 +41,19 @@
 
 ---
 
+---
+Coding Profile
+<p align="center">
+  <a href="https://leetcode.com/u/CodeTecher/">
+    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 # 💻 Tech Stack
 
-### 👨‍💻 Languages
+### 👨‍💻 Languages                                             ## Backend
 
 - Java ⭐⭐⭐⭐⭐
 - Kotlin
