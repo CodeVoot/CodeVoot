@@ -51,15 +51,23 @@ Coding Profile
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-### 👨‍💻 Languages                                             ## Backend
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Java ⭐⭐⭐⭐⭐
-- Kotlin
-- Python
-- C++
-- JavaScript
+### 👨‍💻 Languages
+
+- ☕ Java ⭐⭐⭐⭐⭐
+- 📱 Kotlin
+- 🐍 Python
+- ⚡ C++
+- 🌐 JavaScript
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ⚙️ Backend
 
@@ -71,12 +79,22 @@ Coding Profile
 - Node.js
 - Express.js
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
 ### 🗄 Databases
 
 - PostgreSQL
 - SQL
 - NoSQL
 - SQL Server
+
+</td>
+
+<td width="50%" valign="top">
 
 ### ☁️ Cloud & DevOps
 
@@ -85,23 +103,36 @@ Coding Profile
 - GitHub Actions
 - CI/CD
 
-### 📚 Core CS
+</td>
+</tr>
 
-- Object-Oriented Programming
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Core CS
+
+- OOP
 - Data Structures & Algorithms
 - Multithreading
 - Java Streams
 - Java NIO
 - Swing
 
+</td>
+
+<td width="50%" valign="top">
+
 ### 🛠 Tools
 
 - Android Studio
 - IntelliJ IDEA
 - VS Code
-- Jupyter Notebook
 - Postman
-- GitHub
+- Jupyter Notebook
+
+</td>
+</tr>
+</table>
 
 ---
 
