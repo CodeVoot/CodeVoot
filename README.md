@@ -21,6 +21,9 @@ Always learning, always building — from DSA to Microservices to real-world sys
     <td align="center"><img src="https://github-readme-stats.vercel.app/api?username=CodeVoot&show_icons=true&theme=dark&locale=en&layout=compact"/></td>
     <td align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=CodeVoot&show_icons=true&theme=dark&locale=en&layout=compact&langs_count=10"/></td>
   </tr> -->
+  <tr>
+   [![My Most Used Languages](https://vercel.app)](https://github.com/CodeVoot/github-readme-stats)
+  </tr>
   <!-- <tr>
     <td colspan="2" align="center"><img src="https://github.com/CodeVoot/CodeVoot/blob/output/github-contribution-grid-snake.svg"/></td>
   </tr> -->
