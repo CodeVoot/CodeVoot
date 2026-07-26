@@ -19,7 +19,7 @@
 - 💼 Software Developer Apprentice at **S&P Global**
 - 🌱 Building scalable **Backend Systems**, **Android Applications**, and **Agentic AI**
 - 💻 Passionate about **Java**, **Spring Boot**, **Microservices**, and **Cloud**
-- 🧠 Solved **450+ DSA** problems across LeetCode & Codeforces
+- 🧠 Solved **600+ DSA** problems across LeetCode & Codeforces
 - 🚀 Always learning, always building real-world software
 
 ---
@@ -30,9 +30,9 @@
   <img src="https://streak-stats.demolab.com?user=CodeVoot&theme=github-dark&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=CodeVoot&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeVoot&theme=github-dark" />
@@ -44,13 +44,24 @@
 </p> -->
 
 ---
-
----
 Coding Profile
 <p align="center">
-  <a href="https://leetcode.com/u/CodeTecher/">
-    <img src="https://img.shields.io/badge/LeetCode-450%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
+<a href="https://leetcode.com/u/CodeTecher/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a> <br> <br>
+
+   <a href="https://codeforces.com/profile/CodeVoot">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-blue?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a> <br> <br>
+
+  <a href="https://www.codechef.com/users/codevoot">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
+  </a> <br> <br>
+
+  <a href="https://cses.fi/user/324310">
+    <img src="https://img.shields.io/badge/CSES-Problem%20Set-2E8B57?style=for-the-badge"/>
+  </a> <br> <br>
+  
 </p>
 
 ---
@@ -184,6 +195,12 @@ Coding Profile
 <a href="https://youtube.com/@CodeVoot">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
+
+<a href="https://www.instagram.com/growthcode_108">
+<img src="https://img.shields.io/badge/Instagram-FF0000?style=for-the-badge&logo=instagram"/>
+</a>
+
+
 </p>
 
 ---
