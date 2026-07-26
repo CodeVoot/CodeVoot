@@ -34,10 +34,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=CodeVoot&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=CodeVoot&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeVoot&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
