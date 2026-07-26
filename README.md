@@ -67,7 +67,7 @@ Coding Profile
 
 </td>
 
-<td width="50%" style="padding-left:50%;" valign="top">
+<td width="50%" style="margin-left:50%;" valign="top">
 
 ### ⚙️ Backend
 
