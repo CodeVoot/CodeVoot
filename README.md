@@ -153,7 +153,7 @@ Coding Profile
 
 # 🧠 Data Structures & Algorithms
 
-- ✅ Solved **450+** coding problems
+- ✅ Solved **600+** coding problems
 - 🌳 Strong understanding of Trees & Graphs
 - ⚡ Dynamic Programming
 - 🔥 Recursion & Backtracking
