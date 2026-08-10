@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mayank Agarwal</h1>
 <h3 align="center">Backend Engineer • Android Developer • Agentic AI Builder</h3>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/CodeVoot">
     <img src="https://komarev.com/ghpvc/?username=CodeVoot&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   </a>
-</p>
+</p> -->
 
 <p align="center">
-  <b>Software Developer Apprentice @ S&P Global</b><br>
+  <b>Ex - Software Developer Apprentice @ S&P Global</b><br>
   B.Tech CSE Graduate • Java Backend Developer • Android Enthusiast
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 💼 Software Developer Apprentice at **S&P Global**
+- 💼 Ex - Software Developer Apprentice at **S&P Global**
 - 🌱 Building scalable **Backend Systems**, **Android Applications**, and **Agentic AI**
 - 💻 Passionate about **Java**, **Spring Boot**, **Microservices**, and **Cloud**
 - 🧠 Solved **600+ DSA** problems across LeetCode & Codeforces
