@@ -8,7 +8,7 @@
 </p> -->
 
 <p align="center">
-  <b>Ex - Software Developer Apprentice @ S&P Global</b><br>
+  <b>Ex - Software Developer @ S&P Global</b><br>
   B.Tech CSE Graduate • Java Backend Developer • Android Enthusiast
 </p>
 
@@ -16,7 +16,7 @@
 
 ## 🚀 About Me
 
-- 💼 Ex - Software Developer Apprentice at **S&P Global**
+- 💼 Ex - Software Developer at **S&P Global**
 - 🌱 Building scalable **Backend Systems**, **Android Applications**, and **Agentic AI**
 - 💻 Passionate about **Java**, **Spring Boot**, **Microservices**, and **Cloud**
 - 🧠 Solved **600+ DSA** problems across LeetCode & Codeforces
